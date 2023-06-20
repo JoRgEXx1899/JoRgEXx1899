@@ -1,6 +1,6 @@
 # 🤝 Hi there, I'm Jorge Daniel Gomez
 
-I'm a system's engineer from Universidad Distrital Francisco José de Caldas.
+I'm a systems engineer from Universidad Distrital Francisco José de Caldas. I work as Data Engineer at Ecovis Colombia.
 
 🧠 I'm specialized on Data Science. I like to solve problems related with data 📈 and automation 🤖.
 
@@ -15,6 +15,7 @@ I'm a system's engineer from Universidad Distrital Francisco José de Caldas.
 #### Languages:
 ![image]( https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
 ![image](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=yellow) 
+![image](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java&logoColor=white&labelColor=orange&color=orange) 
 
 #### Libraries:
 ![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
